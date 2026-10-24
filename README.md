@@ -31,5 +31,6 @@ I'm CompTIA **A+** and **Network+** certified, and I'm building a home lab to ge
 | 10 | Monitoring + IT Handbook | Zabbix monitoring, small office IT documentation | Planned |
 
 ## 📫 Contact
-- LinkedIn: [your LinkedIn link here](www.linkedin.com/in/itspecialist-tareq)
+- LinkedIn: [itspecialist-tareq](www.linkedin.com/in/itspecialist-tareq)
+- Credly (verified certifications): [Md Enamul Huq Tareq](https://www.credly.com/users/md-enamul-huq-tareq)
 
