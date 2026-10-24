@@ -20,8 +20,8 @@ I'm CompTIA **A+** and **Network+** certified, and I'm building a home lab to ge
 | # | Project | What it shows | Status |
 |---|---------|---------------|--------|
 | 1 | [Home Lab Foundation](https://github.com/tareq-the-Coders/homelab-foundation) | VirtualBox lab, 5 network modes, static IPs, SSH, snapshots & rollback | ✅ Done |
-| 2 | Windows 11 Workstation Build & Hardening | Secure Windows setup, users, updates, BitLocker, firewall | ⏭️ Next |
-| 3 | Network Troubleshooting Toolkit | Command-line troubleshooting, Wireshark packet captures | Planned |
+| 2 | [Windows 11 Workstation Build & Hardening](https://github.com/tareq-the-Coders/windows11-workstation-build) | Secure Windows setup, users, updates, BitLocker, firewall | ✅ Done |
+| 3 | Network Troubleshooting Toolkit | Command-line troubleshooting, Wireshark packet captures | ⏭️ Next |
 | 4 | Small Office Network (Packet Tracer) | VLANs, routing, DHCP for a small office | Planned |
 | 5 | Active Directory Domain | AD DS, DNS, DHCP, users and groups | Planned |
 | 6 | Group Policy & File Server | GPOs, shared folders, NTFS permissions | Planned |
