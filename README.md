@@ -19,8 +19,8 @@ I'm CompTIA **A+** and **Network+** certified, and I'm building a home lab to ge
 
 | # | Project | What it shows | Status |
 |---|---------|---------------|--------|
-| 1 | [Home Lab Foundation](https://github.com/tareq-the-Coders/homelab-foundation) | VirtualBox lab, 5 network modes, static IPs, SSH, snapshots & rollback | ✅ Done |
-| 2 | [Windows 11 Workstation Build & Hardening](https://github.com/tareq-the-Coders/windows11-workstation-build) | Secure Windows setup, users, updates, BitLocker, firewall | ✅ Done |
+| 1 | [Home Lab Foundation](https://github.com/tareq-the-Coders/homelab-foundation) | VirtualBox lab, 5 network modes, static IPs, SSH, snapshots & rollback |✅Done |
+| 2 | [Windows 11 Workstation Build & Hardening](https://github.com/tareq-the-Coders/windows11-workstation-build) | Secure Windows setup, users, updates, BitLocker, firewall |✅Done |
 | 3 | Windows Server Domain (Active Directory) | AD DS, DNS, DHCP, Group Policy, file server, PowerShell user onboarding | ⏭️ Next |
 | 4 | Entra ID Hybrid Identity + Microsoft 365 | Entra Connect sync, MFA, Conditional Access, Exchange Online | Planned |
 | 5 | Intune Endpoint Management | Device enrolment, compliance, BitLocker, app deployment (Office) | Planned |
