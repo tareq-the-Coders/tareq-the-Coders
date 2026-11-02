@@ -5,8 +5,15 @@
 I'm CompTIA **A+** and **Network+** certified, and I'm building a home lab to get hands-on with the day-to-day work of IT support and system administration: building and fixing PCs and servers, networking, Active Directory, firewalls, backups and monitoring. Every project is documented with screenshots, configs, scripts and a troubleshooting log.
 
 ## 🎓 Certifications
-- CompTIA A+
-- CompTIA Network+
+- CompTIA A+ (2026)
+- CompTIA Network+ (2026)
+- CompTIA IT Operations Specialist (CIOS), stackable credential, 2026
+- Google Cybersecurity Professional Certificate, 2026
+- Google IT Support Professional Certificate, 2025
+- IBM Introduction to Technical Support
+- Google Project Management Professional Certificate
+- Oracle PL/SQL Developer Certified Associate, 2015
+- Oracle Forms Developer Certified Professional, 2015
 
 ## 🛠️ Skills
 - **Operating systems:** Windows 11, Ubuntu Server
